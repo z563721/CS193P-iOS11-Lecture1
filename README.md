@@ -2,4 +2,4 @@
 
 Standford University CS193P iOS11 Swift Lecture
 
-https://www.youtube.com/watch?v=71pyOB4TPRE&t=4208s
+https://www.youtube.com/watch?v=71pyOB4TPRE
